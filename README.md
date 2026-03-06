@@ -1,7 +1,8 @@
 # 🏏 IPL Analytics Dashboard 2008–2024
 ### End-to-End Sports Analytics Project | MySQL + Power BI
 
-![Uploading Screenshot 2026-03-06 193704.png…]()
+<img width="1406" height="793" alt="Screenshot 2026-03-06 193704" src="https://github.com/user-attachments/assets/1a327cda-47a3-4186-87d7-0d4cf94be8a5" />
+
 
 
 
