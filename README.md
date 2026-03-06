@@ -1,7 +1,8 @@
 # 🏏 IPL Analytics Dashboard 2008–2024
 ### End-to-End Sports Analytics Project | MySQL + Power BI
 
-![Dashboard](ipl_analytics_dashboard.pdf)
+![Uploading Screenshot 2026-03-06 193704.png…]()
+
 
 ---
 
